@@ -39,5 +39,6 @@ In order to have a good understanding of how development and operation works, yo
 
 
 
-
+This repo is still in progress, I'll be updating it as soon as I make detailed repo on individual topics mentioned in this one!
+So keep visiting!
 
