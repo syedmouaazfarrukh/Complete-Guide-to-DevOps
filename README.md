@@ -1,6 +1,6 @@
 # Complete guide to DevOps
 
-DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!
+DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article ( https://roadmap.sh/devops ), you all can also use it however what I'll be doing is that I would be adding further insights on each of the concepts explain in this feild.
 
 # Introduction to DevOps
 
@@ -15,6 +15,7 @@ As the name suggest DevOps comprises of two major parts, Development & Operation
 # Learning a Programing language
 
 In order to start of with DevOps you need to have grasp over any of the following languages:
+
   - Python
   - Ruby on Rails
   - Javascript
@@ -23,6 +24,20 @@ In order to start of with DevOps you need to have grasp over any of the followin
 My personal opinion would be to go with python because of its focus on readability, consistency, and ease of use, code is executed as soon as it is written and the Python syntax allows functionality, procedural or object-oriented programmatic ways of coding. However if you dig deep into various domains of python, you might find task in which python is not very performant.
 
 
+# Different Operating concepts
+
+In order to have a good understanding of how development and operation works, you need to know various operating system concepts that play a vital role in operations and are considered highly while developing applications. A breif of concepts is given below and their details will be shared in a seperate repo:
+
+  - Startup Management (init.d)
+  - Service Management (systemd)
+  - Thread & Concurrency in OS 
+  - I/O management & Virtualizations
+  - Memory/Storage & File systems
+  - Networking & POSIX
+  - Sockets and Processes
 
 
-Complete guide to become a DevOps engineer 
+
+
+
+
