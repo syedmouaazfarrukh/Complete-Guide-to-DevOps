@@ -6,7 +6,7 @@ DevOps is a feild growing across the globe with very limited resource available 
 
 DevOps is the acronym given to the combination of Development and Operations. It refers to a collaborative approach to make the Application Development team and the IT Operations team of an organization to seamlessly work with better communication. In other words DevOps is about removing the barriers between traditionally siloed teams, development and operations.
 
-As the name suggest DevOps comprises of two major parts, Development & Operations which are further divided into 4 subparts as shown below.
+As the name suggest DevOps comprises of two major parts, Development & Operations which are further divided into 4 subparts as shown below. We'll be discussing every of these parts down the road in this guide.
 
 ![image](https://user-images.githubusercontent.com/97732099/194718225-6c461ba5-2de7-4025-a43e-7929b1ef2283.png)
 
