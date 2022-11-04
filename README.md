@@ -24,7 +24,7 @@ In order to start of with DevOps you need to have grasp over any of the followin
 My personal opinion would be to go with python because of its focus on readability, consistency, and ease of use, code is executed as soon as it is written and the Python syntax allows functionality, procedural or object-oriented programmatic ways of coding. However if you dig deep into various domains of python, you might find task in which python is not very performant.
 
 
-# Different Operating concepts
+# Different Operating System Concepts
 
 In order to have a good understanding of how development and operation works, you need to know various operating system concepts that play a vital role in operations and are considered highly while developing applications. A breif of concepts is given below and their details will be shared in a seperate repo:
 
