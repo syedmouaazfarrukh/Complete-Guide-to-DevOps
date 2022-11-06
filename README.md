@@ -36,7 +36,7 @@ In order to have a good understanding of how development and operation works, yo
   - Networking & POSIX
   - Sockets and Processes
 
-
+For more details on this, check my other repo through this: https://github.com/syedmouaazfarrukh/Operating-System-Concepts-in-DevOps 
 
 
 This repo is still in progress, I'll be updating it as soon as I make detailed repo on individual topics mentioned in this one!
