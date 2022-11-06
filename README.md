@@ -1,6 +1,6 @@
 # Complete guide to DevOps
 
-DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article ( https://roadmap.sh/devops ), you all can also use it however what I'll be doing is that I would be adding further insights on each of the concepts explain in this feild.
+DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article ( https://roadmap.sh/devops ), you all can also use it, however what I'll be doing is that I'd be adding further insights on each of the concepts explain in this article.
 
 # Introduction to DevOps
 
@@ -37,6 +37,16 @@ In order to have a good understanding of how development and operation works, yo
   - Sockets and Processes
 
 For more details on this, check my other repo through this: https://github.com/syedmouaazfarrukh/Operating-System-Concepts-in-DevOps 
+
+
+# Learning about Managing servers
+
+Server management includes all of the monitoring and maintenance required for servers to operate reliably and at optimal performance levels. The primary goals of an effective server management strategy are to:
+
+ - Build secure server environments.
+ - Minimize server slowdowns and downtime while maximizing reliability.
+ - Scale servers and related operations to meet organizational needs.
+
 
 
 This repo is still in progress, I'll be updating it as soon as I make detailed repo on individual topics mentioned in this one!
