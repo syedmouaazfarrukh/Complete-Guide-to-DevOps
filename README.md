@@ -2,6 +2,7 @@
 
 DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article ( https://roadmap.sh/devops ), you all can also use it, however what I'll be doing is that I'd be adding further insights on each of the concepts explain in this article.
 
+
 # Introduction to DevOps
 
 DevOps is the acronym given to the combination of Development and Operations. It refers to a collaborative approach to make the Application Development team and the IT Operations team of an organization to seamlessly work with better communication. In other words DevOps is about removing the barriers between traditionally siloed teams, development and operations.
