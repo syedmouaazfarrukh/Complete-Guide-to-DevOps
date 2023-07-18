@@ -1,6 +1,6 @@
 # Complete guide to DevOps
 
-DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article ( https://roadmap.sh/devops ), you all can also use it, however what I'll be doing is that I'd be adding further insights on each of the concepts explain in this article.
+DevOps is a feild growing across the globe with very limited resource available for young minds to work in this feild. Here in this repo i'll be providing you with everything that you require to go from zero to hero in the domain of DevOps!. I've also followed this article (https://roadmap.sh/devops), you all can also use it, however what I'll be doing is that I'd be adding further insights on each of the concepts explain in this article.
 
 
 
